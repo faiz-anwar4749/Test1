@@ -7,19 +7,7 @@ namespace tutorial1
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Enter your name : ");
-            //string name = Console.ReadLine();
-            //Console.WriteLine("Haan bhai " + name);
-            //Console.WriteLine("Kitna umar hai?");
-            //string umar = Console.ReadLine();
-            //if(Convert.ToInt32(umar) > 29)
-            //{
-            //    Console.WriteLine("Itna bada ho gayi ho,Biyaah nahi hua abhi tak?");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Cazzz");
-            //}
+           
 
 
             //int a = Math.Max(3, 42);
